@@ -1,1 +1,2 @@
-# data_struct
+# note
+this repository show the common data structures -- rb tree, hashtable, list, queue etc...  
